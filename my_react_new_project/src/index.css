@@ -1,0 +1,9 @@
+/* img{
+    width:1510px;
+    height: 660px;
+} */
+
+.main{
+    height: 100vh;
+    background-image: url(images/box.jpg);
+  }
